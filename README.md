@@ -1,2 +1,0 @@
-# itemList
-Created with CodeSandbox
